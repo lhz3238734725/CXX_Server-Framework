@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/virt-manager/workspace/CXX_Server-Framework/build/test",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/main.dir/main.cpp.o -c /home/virt-manager/workspace/CXX_Server-Framework/test/main.cpp",
+  "file": "/home/virt-manager/workspace/CXX_Server-Framework/test/main.cpp"
+}
+]

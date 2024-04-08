@@ -1,0 +1,7 @@
+/home/virt-manager/workspace/CXX_Server-Framework/build/CMakeFiles/rebuild_cache.dir
+/home/virt-manager/workspace/CXX_Server-Framework/build/CMakeFiles/edit_cache.dir
+/home/virt-manager/workspace/CXX_Server-Framework/build/src/CMakeFiles/rebuild_cache.dir
+/home/virt-manager/workspace/CXX_Server-Framework/build/src/CMakeFiles/edit_cache.dir
+/home/virt-manager/workspace/CXX_Server-Framework/build/test/CMakeFiles/rebuild_cache.dir
+/home/virt-manager/workspace/CXX_Server-Framework/build/test/CMakeFiles/edit_cache.dir
+/home/virt-manager/workspace/CXX_Server-Framework/build/test/CMakeFiles/main.dir
